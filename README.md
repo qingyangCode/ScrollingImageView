@@ -2,6 +2,8 @@
 
 An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.
 
+一种用于显示重复连续侧滚动图像的View,这可以用来创建一个视差动画效果
+
 ## Example
 ![Example](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif)
 
